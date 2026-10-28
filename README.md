@@ -1,3 +1,4 @@
+
 # Saunophile Sauna Tracker — GitHub Pages
 
 This folder is a complete, ready-to-publish static site. Just `index.html` (364 venues, self-contained) plus `.nojekyll`.
